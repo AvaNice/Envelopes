@@ -1,0 +1,120 @@
+2019-12-02 12:11:18.9443 INFO --------------------------------------------------
+2019-12-02 12:11:20.3797 TRACE Default in GetUserMode userMode input = ()
+2019-12-02 12:13:56.7359 INFO --------------------------------------------------
+2019-12-02 12:14:01.2529 TRACE Default in GetUserMode userMode input = ()
+2019-12-02 13:01:53.3568 INFO --------------------------------------------------
+2019-12-02 13:04:10.6641 INFO --------------------------------------------------
+2019-12-02 13:04:12.0074 TRACE Default in GetUserMode userMode input = ()
+2019-12-02 13:04:39.5700 INFO --------------------------------------------------
+2019-12-02 13:04:40.2889 TRACE Default in GetUserMode userMode input = ()
+2019-12-02 13:05:01.6812 TRACE User enter (a, b) = 4
+2019-12-02 13:05:04.2232 TRACE User enter (c, d) = 4
+2019-12-02 13:05:08.8618 TRACE User enter (a, b) = 2
+2019-12-02 13:05:09.8789 TRACE User enter (c, d) = 2
+2019-12-02 13:05:19.0342 TRACE User enter (a, b) = 10
+2019-12-02 13:05:20.2534 TRACE User enter (c, d) = 5
+2019-12-02 13:05:22.3127 TRACE User enter (a, b) = 8
+2019-12-02 13:05:23.2777 TRACE User enter (c, d) = 6
+2019-12-02 13:05:29.2847 TRACE User enter (a, b) = 5
+2019-12-02 13:05:29.7055 TRACE User enter (c, d) = 5
+2019-12-02 13:05:30.2067 TRACE User enter (a, b) = 5
+2019-12-02 13:05:30.6952 TRACE User enter (c, d) = 5
+2019-12-02 13:05:32.2362 TRACE Default in GetUserMode userMode input = ()
+2019-12-02 13:08:31.2110 INFO --------------------------------------------------
+2019-12-02 13:08:33.0873 TRACE Default in GetUserMode userMode input = ()
+2019-12-02 13:08:40.5538 TRACE User enter (a, b) = 2
+2019-12-02 13:08:46.2786 TRACE User enter (c, d) = 3
+2019-12-02 13:08:47.7795 TRACE User enter (a, b) = 1
+2019-12-02 13:08:48.3841 TRACE User enter (c, d) = 1
+2019-12-02 13:08:50.7911 TRACE Default in GetUserMode userMode input = ()
+2019-12-02 13:08:52.8125 INFO Exit
+2019-12-02 23:24:32.0997 INFO --------------------------------------------------
+2019-12-02 23:24:32.1765 ERROR Can't read args
+2019-12-02 23:24:41.4127 ERROR Incorrect Input of (a, b) - 2.3
+2019-12-02 23:24:46.8026 ERROR Incorrect Input of (a, b) - 2,3
+2019-12-02 23:24:47.7905 TRACE User enter (a, b) = 2
+2019-12-02 23:24:48.5674 TRACE User enter (c, d) = 2
+2019-12-02 23:24:49.5631 TRACE User enter (a, b) = 3
+2019-12-02 23:24:50.0787 TRACE User enter (c, d) = 3
+2019-12-02 23:24:56.3146 TRACE Default in GetUserMode userMode input = ()
+2019-12-02 23:25:17.8473 INFO --------------------------------------------------
+2019-12-02 23:25:17.8872 ERROR Can't read args
+2019-12-02 23:25:20.8003 TRACE User enter (a, b) = 2
+2019-12-02 23:25:21.2615 TRACE User enter (c, d) = 2
+2019-12-02 23:25:22.0511 TRACE User enter (a, b) = 3
+2019-12-02 23:25:22.6414 TRACE User enter (c, d) = 3
+2019-12-02 23:25:24.3050 TRACE Default in GetUserMode userMode input = ()
+2019-12-02 23:25:35.8238 INFO --------------------------------------------------
+2019-12-02 23:25:35.8617 ERROR Can't read args
+2019-12-02 23:25:39.6548 TRACE User enter (a, b) = 2
+2019-12-02 23:25:40.0584 TRACE User enter (c, d) = 2
+2019-12-02 23:25:40.6695 TRACE User enter (a, b) = 3
+2019-12-02 23:25:41.0102 TRACE User enter (c, d) = 3
+2019-12-02 23:25:50.9092 TRACE Default in GetUserMode userMode input = ()
+2019-12-02 23:25:58.4022 TRACE User enter (a, b) = 3
+2019-12-02 23:25:59.0838 TRACE User enter (c, d) = 5
+2019-12-02 23:26:00.7698 TRACE User enter (a, b) = 2
+2019-12-02 23:26:08.1156 TRACE User enter (c, d) = 5
+2019-12-02 23:26:12.2317 TRACE Default in GetUserMode userMode input = ()
+2019-12-02 23:26:17.1102 TRACE User enter (a, b) = 20
+2019-12-02 23:26:18.6817 TRACE User enter (c, d) = 3
+2019-12-02 23:26:20.3982 TRACE User enter (a, b) = 5
+2019-12-02 23:26:21.3527 TRACE User enter (c, d) = 5
+2019-12-02 23:26:26.3173 TRACE Default in GetUserMode userMode input = ()
+2019-12-02 23:26:30.3260 INFO Exit
+2019-12-02 23:27:44.5253 INFO --------------------------------------------------
+2019-12-02 23:27:44.5652 ERROR Can't read args
+2019-12-02 23:27:50.6218 TRACE User enter (a, b) = 3
+2019-12-02 23:27:50.9349 TRACE User enter (c, d) = 3
+2019-12-02 23:27:55.2294 ERROR Incorrect Input of (a, b) - 4.5
+2019-12-02 23:27:58.5866 TRACE User enter (a, b) = 4,5
+2019-12-02 23:28:02.2321 TRACE User enter (c, d) = 4,5
+2019-12-02 23:28:07.7318 TRACE Default in GetUserMode userMode input = ()
+2019-12-02 23:30:07.4137 INFO --------------------------------------------------
+2019-12-02 23:30:07.4526 ERROR Can't read args
+2019-12-02 23:30:12.7273 TRACE User enter (a, b) = 3,4
+2019-12-02 23:30:15.1713 TRACE User enter (c, d) = 4,3
+2019-12-02 23:30:17.2531 TRACE User enter (a, b) = 5
+2019-12-02 23:30:24.0176 TRACE User enter (c, d) = 3,4
+2019-12-02 23:32:50.3574 INFO --------------------------------------------------
+2019-12-02 23:32:50.3953 ERROR Can't read args
+2019-12-02 23:32:57.8122 TRACE User enter (a, b) = 3
+2019-12-02 23:32:58.6256 TRACE User enter (c, d) = 5
+2019-12-02 23:32:59.6756 TRACE User enter (a, b) = 4
+2019-12-02 23:33:00.3378 TRACE User enter (c, d) = 5
+2019-12-02 23:33:26.9077 TRACE User enter (a, b) = 3
+2019-12-02 23:33:30.4728 TRACE User enter (c, d) = 6
+2019-12-02 23:33:54.9962 TRACE User enter (a, b) = 7
+2019-12-02 23:33:55.8121 TRACE User enter (c, d) = 4
+2019-12-02 23:34:14.4568 TRACE User enter (a, b) = 2
+2019-12-02 23:34:14.9032 TRACE User enter (c, d) = 3
+2019-12-02 23:34:17.0620 TRACE User enter (a, b) = 1
+2019-12-02 23:34:17.5411 TRACE User enter (c, d) = 1
+2019-12-02 23:35:36.9146 INFO --------------------------------------------------
+2019-12-02 23:35:36.9535 ERROR Can't read args
+2019-12-02 23:35:38.8317 TRACE User enter (a, b) = 5
+2019-12-02 23:35:39.4305 TRACE User enter (c, d) = 5
+2019-12-02 23:35:40.6712 TRACE User enter (a, b) = 10
+2019-12-02 23:35:42.6482 TRACE User enter (c, d) = 10
+2019-12-02 23:35:47.0060 TRACE Default in GetUserMode userMode input = ()
+2019-12-02 23:36:16.4672 INFO --------------------------------------------------
+2019-12-02 23:36:16.5071 ERROR Can't read args
+2019-12-02 23:36:19.7583 TRACE User enter (a, b) = 3
+2019-12-02 23:36:20.1562 TRACE User enter (c, d) = 4
+2019-12-02 23:36:21.7737 TRACE User enter (a, b) = 5
+2019-12-02 23:36:22.0952 TRACE User enter (c, d) = 6
+2019-12-02 23:36:28.6736 TRACE User enter (a, b) = 2
+2019-12-02 23:36:28.9706 TRACE User enter (c, d) = 2
+2019-12-02 23:36:30.0040 TRACE User enter (a, b) = 4
+2019-12-02 23:36:30.3237 TRACE User enter (c, d) = 4
+2019-12-02 23:36:33.3661 TRACE User enter (a, b) = 4
+2019-12-02 23:36:33.6484 TRACE User enter (c, d) = 4
+2019-12-02 23:36:34.1236 TRACE User enter (a, b) = 2
+2019-12-02 23:36:34.5251 TRACE User enter (c, d) = 2
+2019-12-02 23:37:49.8559 INFO --------------------------------------------------
+2019-12-02 23:37:49.8928 ERROR Can't read args
+2019-12-02 23:37:55.0030 TRACE User enter (a, b) = 3
+2019-12-02 23:37:55.6341 TRACE User enter (c, d) = 4
+2019-12-02 23:38:10.9537 TRACE User enter (a, b) = 5
+2019-12-02 23:38:12.7253 TRACE User enter (c, d) = 3,3
+2019-12-02 23:38:17.9683 TRACE Default in GetUserMode userMode input = ()

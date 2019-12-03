@@ -1,0 +1,10 @@
+C:\C# .Net\ElementaryTasks\Envelopes\Envelopes\bin\Debug\NLog.config
+C:\C# .Net\ElementaryTasks\Envelopes\Envelopes\bin\Debug\Envelopes.exe.config
+C:\C# .Net\ElementaryTasks\Envelopes\Envelopes\bin\Debug\Envelopes.exe
+C:\C# .Net\ElementaryTasks\Envelopes\Envelopes\bin\Debug\Envelopes.pdb
+C:\C# .Net\ElementaryTasks\Envelopes\Envelopes\bin\Debug\NLog.dll
+C:\C# .Net\ElementaryTasks\Envelopes\Envelopes\bin\Debug\NLog.xml
+C:\C# .Net\ElementaryTasks\Envelopes\Envelopes\obj\Debug\Envelopes.csprojAssemblyReference.cache
+C:\C# .Net\ElementaryTasks\Envelopes\Envelopes\obj\Debug\Envelopes.csproj.CopyComplete
+C:\C# .Net\ElementaryTasks\Envelopes\Envelopes\obj\Debug\Envelopes.exe
+C:\C# .Net\ElementaryTasks\Envelopes\Envelopes\obj\Debug\Envelopes.pdb
