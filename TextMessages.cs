@@ -8,7 +8,6 @@ namespace Envelopes
 {
     static class TextMessages
     {
-        #region PublicMembers
         public const string HEIGHT = "Height";
         public const string WIDTH = "Width";
         public const string HELP = "Exit - to complete the work.\nYes or Y - to get started." +
@@ -23,6 +22,5 @@ namespace Envelopes
         public const string SECOND_ENVELOPE_IN = "Second envelope can be placed in first envelope";
         public const string CANT_BE_PLACED = "None of the envelopes can be placed in the second envelope";
         public const string SETTINGS_MODE = "settings";
-        #endregion
     }
 }

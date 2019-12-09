@@ -1,0 +1,17 @@
+2019-12-03 14:03:12.3003 INFO --------------------------------------------------
+2019-12-03 14:03:12.3711 ERROR Can't read args
+2019-12-03 14:03:15.0768 TRACE Default in GetUserMode userMode input = (í)
+2019-12-03 14:03:19.2556 TRACE User enter (a, b) = 3
+2019-12-03 14:03:21.3941 TRACE User enter (c, d) = 3
+2019-12-03 14:03:23.2728 TRACE User enter (a, b) = 4
+2019-12-03 14:03:23.9244 TRACE User enter (c, d) = 2
+2019-12-03 14:03:26.8945 TRACE Default in GetUserMode userMode input = ()
+2019-12-03 14:03:31.7025 TRACE User enter (a, b) = 2,3
+2019-12-03 14:03:33.2000 TRACE User enter (c, d) = 2,3
+2019-12-03 14:03:36.5201 TRACE User enter (a, b) = 3,3
+2019-12-03 14:03:37.7824 TRACE User enter (c, d) = 3,3
+2019-12-03 14:03:42.5085 TRACE User enter (a, b) = 10
+2019-12-03 14:03:43.6074 ERROR Incorrect Input of (c, d) - 1p
+2019-12-03 14:03:49.5558 TRACE User enter (c, d) = 10
+2019-12-03 14:03:53.0302 ERROR Incorrect Input of (a, b) - 19.2
+2019-12-03 14:03:55.8273 TRACE User enter (a, b) = 19,2

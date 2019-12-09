@@ -11,13 +11,14 @@ namespace Envelopes
     class Program
     {
         private static Logger logger = LogManager.GetCurrentClassLogger();
+
         static void Main(string[] args)
         {
             logger.Info(new string('-', 50));
 
             StartWithParams(args);
 
-            UserMenu();
+            ShowUserMenu();
         }
         private static void StartWithParams(string[] args)
         {
@@ -37,7 +38,7 @@ namespace Envelopes
                 Console.WriteLine(TextMessages.HELP);
             }
         }
-        private static void UserMenu()
+        private static void ShowUserMenu()
         {
             string userMode = Console.ReadLine().ToLower();
             switch (userMode)
@@ -58,7 +59,7 @@ namespace Envelopes
                     logger.Trace($"Default in GetUserMode userMode input = ({userMode})");
                     break;
             }
-            UserMenu();
+            ShowUserMenu();
         }
         private static double GetUserParameter(string parameterName)
         {
