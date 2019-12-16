@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Envelopes
+﻿namespace Envelopes
 {
-    class Envelope
+    public class Envelope
     {
         private double _aBSide;
         private double _cDSide;

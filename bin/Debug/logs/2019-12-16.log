@@ -1,0 +1,60 @@
+2019-12-16 19:50:28.7873 INFO --------------------------------------------------
+2019-12-16 19:51:30.2467 INFO --------------------------------------------------
+2019-12-16 19:52:07.8333 INFO --------------------------------------------------
+2019-12-16 19:52:10.1207 TRACE Default in GetUserMode userMode input = ()
+2019-12-16 19:52:10.1207 TRACE Default in GetUserMode userMode input = (Help)
+2019-12-16 19:52:11.7924 TRACE Default in GetUserMode userMode input = ()
+2019-12-16 19:52:11.7924 TRACE Default in GetUserMode userMode input = (Help)
+2019-12-16 19:52:55.8568 INFO --------------------------------------------------
+2019-12-16 19:53:02.0690 TRACE User enter (a, b) = 10
+2019-12-16 19:53:04.4584 TRACE User enter (c, d) = 10
+2019-12-16 19:53:05.9963 TRACE User enter (a, b) = 8
+2019-12-16 19:53:06.8500 TRACE User enter (c, d) = 8
+2019-12-16 19:56:57.0385 INFO --------------------------------------------------
+2019-12-16 19:57:02.6573 TRACE User enter (a, b) = 10
+2019-12-16 19:57:03.7585 TRACE User enter (c, d) = 10
+2019-12-16 19:57:04.7406 TRACE User enter (a, b) = 8
+2019-12-16 19:57:05.4197 TRACE User enter (c, d) = 8
+2019-12-16 19:57:20.6453 TRACE Default in GetUserMode userMode input = (exit)
+2019-12-16 19:57:24.2477 INFO --------------------------------------------------
+2019-12-16 19:57:27.2132 TRACE User enter (a, b) = 10
+2019-12-16 19:57:27.8081 TRACE User enter (c, d) = 10
+2019-12-16 19:57:29.0093 TRACE User enter (a, b) = 10
+2019-12-16 19:57:29.5445 TRACE User enter (c, d) = 10
+2019-12-16 19:57:49.2846 INFO --------------------------------------------------
+2019-12-16 19:57:51.9838 TRACE User enter (a, b) = 10
+2019-12-16 19:57:52.4059 TRACE User enter (c, d) = 10
+2019-12-16 19:57:53.4657 TRACE User enter (a, b) = 10
+2019-12-16 19:57:54.0853 TRACE User enter (c, d) = 10
+2019-12-16 19:59:46.3621 INFO --------------------------------------------------
+2019-12-16 19:59:50.2405 TRACE User enter (a, b) = 10
+2019-12-16 19:59:50.5496 TRACE User enter (c, d) = 10
+2019-12-16 19:59:51.4129 TRACE User enter (a, b) = 8
+2019-12-16 19:59:51.7973 TRACE User enter (c, d) = 8
+2019-12-16 20:00:53.1260 INFO --------------------------------------------------
+2019-12-16 20:00:58.2458 TRACE User enter (a, b) = 10
+2019-12-16 20:00:58.8463 TRACE User enter (c, d) = 10
+2019-12-16 20:01:00.3737 TRACE User enter (a, b) = 8
+2019-12-16 20:01:00.6001 ERROR Incorrect Input of (c, d) - '
+2019-12-16 20:01:02.3369 TRACE User enter (c, d) = 8
+2019-12-16 20:08:41.3300 INFO --------------------------------------------------
+2019-12-16 20:08:46.2942 TRACE User enter First envelope (a, b) = 10
+2019-12-16 20:08:47.8903 TRACE User enter First envelope (c, d) = 10
+2019-12-16 20:08:51.6136 TRACE User enter Second envelope (a, b) = 8
+2019-12-16 20:08:52.3631 TRACE User enter Second envelope (c, d) = 8
+2019-12-16 20:09:02.2254 TRACE User enter First envelope (a, b) = 9
+2019-12-16 20:09:02.5971 TRACE User enter First envelope (c, d) = 9
+2019-12-16 20:09:04.4565 TRACE User enter Second envelope (a, b) = 0
+2019-12-16 20:09:05.6168 TRACE User enter Second envelope (c, d) = 0
+2019-12-16 20:13:03.3704 INFO --------------------------------------------------
+2019-12-16 20:17:28.3438 INFO --------------------------------------------------
+2019-12-16 20:19:38.6963 INFO --------------------------------------------------
+2019-12-16 20:22:35.7050 INFO --------------------------------------------------
+2019-12-16 20:22:39.1950 TRACE User enter First envelope (a, b) = 10
+2019-12-16 20:22:39.6307 TRACE User enter First envelope (c, d) = 10
+2019-12-16 20:22:40.5326 TRACE User enter Second envelope (a, b) = 8
+2019-12-16 20:22:41.1208 TRACE User enter Second envelope (c, d) = 8
+2019-12-16 20:22:50.0297 TRACE User enter First envelope (a, b) = 7
+2019-12-16 20:22:50.5043 TRACE User enter First envelope (c, d) = 7
+2019-12-16 20:22:51.5709 TRACE User enter Second envelope (a, b) = 3
+2019-12-16 20:22:52.9488 TRACE User enter Second envelope (c, d) = 80

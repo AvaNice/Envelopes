@@ -52,6 +52,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Envelope.cs" />
+    <Compile Include="EnvelopesApp.cs" />
+    <Compile Include="EnvelopesUI.cs" />
+    <Compile Include="IEnvelopesUI.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TextMessages.cs" />

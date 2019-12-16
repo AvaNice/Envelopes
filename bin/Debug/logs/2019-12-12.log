@@ -1,0 +1,7 @@
+2019-12-12 16:42:52.3788 INFO --------------------------------------------------
+2019-12-12 16:42:52.4566 ERROR Can't read args
+2019-12-12 16:43:00.3294 TRACE User enter (a, b) = 10
+2019-12-12 16:43:01.2768 TRACE User enter (c, d) = 10
+2019-12-12 16:43:04.4452 TRACE User enter (a, b) = 2
+2019-12-12 16:43:04.9554 TRACE User enter (c, d) = 2
+2019-12-12 16:43:08.3044 TRACE Default in GetUserMode userMode input = ()
