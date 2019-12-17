@@ -11,11 +11,6 @@
             _cDSide = cDSide;
         }
 
-        public static bool CanBeInvested(Envelope external, Envelope interior)
-        {
-            return external > interior;
-        }
-
         public static bool operator >(Envelope c1, Envelope c2)
         {
             if (((c1._aBSide > c2._aBSide) && (c1._cDSide > c2._cDSide))

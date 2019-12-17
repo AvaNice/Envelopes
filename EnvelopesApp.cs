@@ -36,21 +36,17 @@ namespace Envelopes
 
         public void OutputEnvelopeCompare(Envelope first, Envelope second)
         {
-            // Console.WriteLine(Envelope.CanBeInvested(first, second));
-            if (Envelope.CanBeInvested(first, second))
+            if (first > second)
             {
-               // Console.WriteLine(TextMessages.SECOND_ENVELOPE_IN);
                 _userInterface.ShowResult(TextMessages.SECOND_ENVELOPE_IN);
 
             }
-            else if (Envelope.CanBeInvested(second, first))
+            else if (second < first)
             {
-               // Console.WriteLine(TextMessages.FIRST_ENVELOPE_IN);
                 _userInterface.ShowResult(TextMessages.FIRST_ENVELOPE_IN);
             }
             else
             {
-               // Console.WriteLine(TextMessages.CANT_BE_PLACED);
                 _userInterface.ShowResult(TextMessages.CANT_BE_PLACED);
             }
         }

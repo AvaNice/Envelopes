@@ -1,0 +1,5 @@
+2019-12-17 14:37:36.7172 INFO --------------------------------------------------
+2019-12-17 14:37:38.6939 TRACE User enter First envelope (a, b) = 10
+2019-12-17 14:37:39.0749 TRACE User enter First envelope (c, d) = 10
+2019-12-17 14:37:41.6274 TRACE User enter Second envelope (a, b) = 8
+2019-12-17 14:37:41.9438 TRACE User enter Second envelope (c, d) = 8
